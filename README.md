@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ 😎 I'm Sika[Ce-kaa], I'm an alum of Ada Developers Academy, a highly immersive coding school where women and gender-expansive adults learn how to be Software Engineers. ✨
+✨ 😎 I'm Sika[Ce-kaa], an alum of Ada Developers Academy, a highly immersive coding school where women and gender-expansive adults learn how to be Software Engineers. ✨
 
 🔭  I’m currently working on enhancing the usability of the platform at Amazon Prime Video, where I'm interning. My contributions include features like a customizable column display,
  order alteration, preset filters/preferences saving, and a Quick Copy feature, which has improved efficiency and reduced errors.
