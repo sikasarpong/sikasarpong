@@ -2,7 +2,7 @@
 
 ✨ 😎 I'm Sika[Ce-kaa], an alum of Ada Developers Academy, a highly immersive coding school where women and gender-expansive adults learn how to be Software Engineers. ✨
 
-🔭  At Amazon Prime Video, where I'm interned for six months , I worked on enhancing the usability of the platform at Amazon Prime Video,. My contributions include features like a customizable column display,
+🔭  At Amazon Prime Video, where I interned for six months , I worked on enhancing the usability of the platform at Amazon Prime Video,. My contributions include features like a customizable column display,
  order alteration, preset filters/preferences saving, and a Quick Copy feature, which has improved efficiency and reduced errors.
 
 🌱  I'm currently learning advanced coding techniques in both React and Java in AWS environments as a Full-Stack to develop and implement applications like as mentioned above. 
